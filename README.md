@@ -3,5 +3,7 @@ This is an fork of the original [ohmyz.sh](https://ohmyz.sh). It's meant to stor
 customization.
 
 # Installation
-To install please run 
-`sh -c "$(curl -fsSL https://raw.githubusercontent.com/Lacritz/ohmyzsh/master/tools/install.sh)"`
+To install please run:
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Lacritz/ohmyzsh/master/tools/install.sh)"
+```
